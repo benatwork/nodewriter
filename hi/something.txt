@@ -1,0 +1,10 @@
+{
+    "id": 5,
+    "name": "Tote",
+    "view": 0,
+    "description": null,
+    "icon": "./api/item-assets/products_tote.svg",
+    "content_group": [
+        "items"
+    ]
+}
