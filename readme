@@ -1,0 +1,1 @@
+a simple nodejs RESTful interface that handles CRUD with the local filesystem. Designed to work with backbone.js json models and collections
